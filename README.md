@@ -5,4 +5,6 @@
   - docker-compose up
 
 - Está usando tailwindCSS, Laravel, e as views em Blade
-  - Para rodar o projeto, ao terminar , usar npm run dev - para que funcione junto ao tailwind
+  - Para rodar o projeto, ao terminar: 
+  - usar npm install - para instalar as depedencias javascript
+  - usar npm run dev - para que funcione junto ao tailwind
